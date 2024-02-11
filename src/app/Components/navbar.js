@@ -81,7 +81,7 @@ function navbar() {
               </div>
               {/* <!-- contact login --> */}
               <div class="nav-menu-btn-block desktop">
-                <a class="navv2-link w-nav-link" href="/talk-to-sales">
+                <a class="navv2-link w-nav-link" href="/contact">
                   Contact Sales
                 </a>
                 <a
