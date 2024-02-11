@@ -1,0 +1,78 @@
+
+.sticky{
+   -ms-text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
+   font-family: sans-serif
+}
+
+body {
+    overflow-x: hidden;
+    }
+    .txt-truncate { 
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    }
+    
+    .v2link-for-white.commerce:hover .products-icons.commerce-ai,
+    .v2link-new.commerce:hover .products-icons.commerce-ai.white{
+     background-image: url(https://assets-global.website-files.com/627bfc08107c6a6fc647c28b/65afae78cc68ce7e0006e142_prod-active-1.svg);
+    }
+    .v2link-for-white.blog:hover .products-icons.blog,
+    .v2link-new.blog:hover .products-icons.blog.white{
+     background-image: url(https://assets-global.website-files.com/627bfc08107c6a6fc647c28b/65afae78ebb8c63f5de121ab_prod-active-2.svg);
+    }
+    .v2link-for-white.chat:hover .products-icons.chat,
+    .v2link-new.chat:hover .products-icons.chat.white{
+     background-image: url(https://assets-global.website-files.com/627bfc08107c6a6fc647c28b/65afae786d2e9c589249fd37_prod-active-3.svg);
+    }
+    .v2link-for-white:hover .navigation-arrow-icon,
+    .v2link-new:hover .navigation-arrow-icon.white,
+    .v2link-block-new:hover .navlink-arrow-icon,
+    .v2link-block:hover .navlink-arrow-icon.white{
+       background-image: url(https://assets-global.website-files.com/627bfc08107c6a6fc647c28b/65afafd9263c2c5d3f5461d0_arrow-right-navigation-active.svg);
+    }
+    .v2link-block-new:hover .navlink-arrow-icon.soon,
+    .v2link-block:hover .navlink-arrow-icon.soon{
+       background-image: url(https://assets-global.website-files.com/627bfc08107c6a6fc647c28b/659e636592a0028e36c20564_soon.png);
+    }
+    
+    .arena-chat-widget--footer-info {
+     background: radial-gradient(50% 50% at 50% 50%, #AB57FF 13.75%, #9124FF 100%)!important;
+     box-shadow: 0px 4px 10px rgb(119 57 235 / 30%)!important;
+     border-radius: 16px 16px 0px 16px!important;
+    }
+    
+    .arena-chat-widget--icon-bubble {
+     background: url(https://assets-global.website-files.com/630388f30de6fe20939cce33/634e16059ea704447bef681c_arena-logo-chat.png) center center / cover no-repeat !important;
+    }
+    
+    [data-testid="poll-question"] {
+     font-size: 16px!important;
+     font-weight: 500!important;
+    }
+    
+    [data-testid="poll-option"] {
+     font-size: 14px!important;
+     box-shadow: none!important;
+     border: 0!important;
+     background: #F5F6F8!important;
+    }
+    
+    [data-testid="poll-option"]:hover {
+     font-size: 14px!important;
+     font-weight: 500!important;
+    }
+    
+    html {
+    
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    
+    }
+    
+    :focus {
+    outline: 0 !important;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
+    }
+    
