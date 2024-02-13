@@ -1,3 +1,4 @@
+import './globals.css';
 function page() {
   return <div></div>;
 }

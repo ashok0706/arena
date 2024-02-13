@@ -1,5 +1,5 @@
 import Footer from '../Components/footer';
-import '/src/app/glob.css';
+// import '/src/app/glob.css';
 import '/src/app/globals.css';
 function page() {
   return (

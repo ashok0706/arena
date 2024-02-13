@@ -1,7 +1,7 @@
 import { FaArrowRight } from 'react-icons/fa';
-import Article from '../latest/page';
+import Article from '../article/page';
 
-import './resorces.css';
+import './resoursce.css';
 
 function resoursce() {
   return (

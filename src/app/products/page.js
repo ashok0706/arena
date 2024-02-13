@@ -2,7 +2,7 @@ import { BiChat } from 'react-icons/bi';
 import { BsStars } from 'react-icons/bs';
 import { FaArrowRight } from 'react-icons/fa';
 import { HiOutlineSpeakerphone } from 'react-icons/hi';
-import Article from '../latest/page';
+import Article from '../article/page';
 import './product.css';
 function products() {
   return (

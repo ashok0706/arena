@@ -1,5 +1,5 @@
 import { FaArrowRightLong } from 'react-icons/fa6';
-import './artcle.css';
+import './article.css';
 
 function article() {
   return (

@@ -1,8 +1,8 @@
 .footer_section{
-    display: flex;
-    flex-direction: column;
-    /* justify-content:space-evenly; */
-  
+  display: flex;
+  flex-direction: column;
+  /* justify-content:space-evenly; */
+
 background-color: black;
 color: #f0f8ff;
 padding:90px 100px ;
@@ -13,9 +13,9 @@ font-family: Raleway, sans-serif;
 
 
 .footer{
-    display: flex;
- 
-    justify-content:space-around;
+  display: flex;
+
+  justify-content:space-around;
 background-color: black;
 color: #f0f8ff;
 height: 300px;
@@ -23,65 +23,64 @@ height: 300px;
 
 }
 .footerli{
-    list-style-type: none;
+  list-style-type: none;
 }
 .footerli li:first-child {
-    
   
-    font-size: 24px; 
-    font-weight: 600; 
-   
-    color: rgb(255, 255, 255);
-    margin-bottom: 25px;
-  }
 
-  .footerli li{
-    font-family: Manrope;
-    margin: 18px;
-    font-size: 18px;
-    color: #f0f8ff;
+  font-size: 24px; 
+  font-weight: 600; 
+ 
+  color: rgb(255, 255, 255);
+  margin-bottom: 25px;
+}
 
-  }
-  .Copyright{
-    text-align: center;
-    font-size: 15px;
-    color: rgb(161, 162, 162);
-    /* transform: translateY(-50px); */
-  }
-.logo{
-    font-family: Lexend; /* Heading */
-    font-size: 50px; 
-    font-weight: 700; 
-    line-height: 44px; 
-    margin-bottom: 20px;
-    color: #f7f7f7;
+.footerli li{
+  font-family: Manrope;
+  margin: 18px;
+  font-size: 18px;
+  color: #f0f8ff;
 
 }
- .footerli li:hover{
-    color:  #7739eb;
-    cursor: pointer;
- }
- .icons:hover {
-    cursor: pointer;
- }
- .footer_para{
-    margin-top: 8px;
-    font-size: 13px;
-  color: #f0f8ff;
-    font-family: Poppins, sans-serif;
-  }
-  .arena{
-    /* border: 2px solid white; */
-    display:block;
-    height: fit-content;
+.Copyright{
+  text-align: center;
+  font-size: 15px;
+  color: rgb(161, 162, 162);
+  /* transform: translateY(-50px); */
+}
+.logo{
+  font-family: Lexend; /* Heading */
+  font-size: 50px; 
+  font-weight: 700; 
+  line-height: 44px; 
+  margin-bottom: 20px;
+  color: #f7f7f7;
 
-  }
-  .icons{
-    display: flex;
-    /* border: 2px solid white; */
-    justify-content: space-between;
-    margin-top: 50px;
-   
-  }
+}
+.footerli li:hover{
+  color:  #7739eb;
+  cursor: pointer;
+}
+.icons:hover {
+  cursor: pointer;
+}
+.footer_para{
+  margin-top: 8px;
+  font-size: 13px;
+color: #f0f8ff;
+  font-family: Poppins, sans-serif;
+}
+.arena{
+  /* border: 2px solid white; */
+  display:block;
+  height: fit-content;
 
-  
+}
+.icons{
+  display: flex;
+  /* border: 2px solid white; */
+  justify-content: space-between;
+  margin-top: 50px;
+ 
+}
+
