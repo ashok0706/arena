@@ -1,11 +1,5 @@
-import './globals.css';
-import Home from './home/page';
 function page() {
-  return (
-    <div>
-      <Home />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default page;

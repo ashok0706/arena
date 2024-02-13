@@ -1,0 +1,50 @@
+.s_resource{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 80px;
+    margin: 0px;
+    padding: 35px 140px  ;
+    font-family: Raleway, sans-serif;
+    
+    /* color:  black; */
+
+}
+
+
+.s_grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns each taking 1 fraction of the available space */
+    grid-template-rows: repeat(2, auto); /* 2 rows, each sized to fit its content */
+    gap: 30px; /* Gap between grid items */
+    margin-top: 30px;
+  }
+  
+  
+  .Sa{
+    font-size: 18px;
+   text-decoration: none;
+   font-weight: 500;
+   display: flex;
+   align-items: center;
+  }
+  .Sp{
+    margin-top: 8px;
+    font-size: 13px;
+    color: black;
+  }
+  .title{
+    font-size: 16px;
+   padding: 30px 0px;
+    border-bottom: 0.1px  solid  #435565; ;
+    color: #435565;
+  }
+
+  .Sa:hover ,span:hover{
+color:  #7739eb;
+cursor: pointer;
+
+  }
+
+  span{
+    margin-right: 5px;
+  }
